@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lab/core.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="java_printBinary/lab"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lab/javase.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="java_printBinary/lab"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lab/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lab/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lab/mina-core-2.0.7.jar"/>
+	<classpathentry kind="lib" path="lab/mina-transport-serial-2.0.7.jar"/>
+	<classpathentry kind="lib" path="lab/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="lab/slf4j-log4j12-1.6.6.jar"/>
+	<classpathentry kind="lib" path="lab/poi-3.1-FINAL-20080629.jar"/>
+	<classpathentry kind="lib" path="lab/poi-contrib-3.1-FINAL-20080629.jar"/>
+	<classpathentry kind="lib" path="lab/poi-scratchpad-3.1-FINAL-20080629.jar"/>
+	<classpathentry kind="lib" path="lab/35bb9a5b-ff43-4d57-85ef-48b4b70c9808.jar"/>
+	<classpathentry kind="lib" path="lab/RXTXcomm.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
